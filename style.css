@@ -1,0 +1,38 @@
+body {
+  background-color: #3388FF;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+img {
+  border-radius: 30px;
+  box-shadow: 1px 1px 10px black;
+  display: block;
+  margin: 0 auto;
+}
+
+.container {
+  width: 500px;   /* Définit la largeur */
+  margin: 0 auto; /* Définit automatiquement les marges à gauche/droite */
+}
+
+.text-align {
+  text-align: center;
+}
+
+.big-size {
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+
+.LI-profile-badge {
+  height: 120px;
+  width: 30px;
+}
